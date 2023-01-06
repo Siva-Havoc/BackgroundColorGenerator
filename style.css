@@ -1,0 +1,22 @@
+/* author - Siva M */
+
+body
+{
+    font: 'Raleway',san-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    letter-spacing: .5em;
+    background:linear-gradient(to right,rgb(56, 18, 227),rgb(225, 15, 225));
+}
+h1
+{
+    font: 600 3.5em 'Raleway',san-serif;
+    color: rgba(137, 4, 4, 0.493);
+    width: 100%;
+}
+
+h2{
+    font: 900 1em 'Raleway',san-serif;
+    color: rgba(0,0, 0, .5);
+    letter-spacing: 0.01em;
+}
